@@ -15,7 +15,7 @@
 
 WUPS_PLUGIN_NAME("Swkbd Unlock");
 WUPS_PLUGIN_DESCRIPTION("Unlock swkbd symbols and optionally remove its input length limit");
-WUPS_PLUGIN_VERSION("1.0.0");
+WUPS_PLUGIN_VERSION("1.1.0");
 WUPS_PLUGIN_AUTHOR("Katsu");
 WUPS_PLUGIN_LICENSE("MIT");
 WUPS_USE_STORAGE("swkbd_unlock_v2");
